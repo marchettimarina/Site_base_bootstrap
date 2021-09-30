@@ -6,7 +6,7 @@ body{
 .col{
     background-color: rgb(16, 173, 173);
     font-family: 'Yaldevi', sans-serif;
-    color: rgba(168, 105, 219, 0.63);
+    color: rgb(16, 173, 173);
 }
 .container{
     margin-top:20px;

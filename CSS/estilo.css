@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yaldevi:wght@200&display=swap');
 
 body{
     background-color: rgb(103, 23, 139);
+    font-family: 'Yaldevi', sans-serif;
+    color: rgb(16, 173, 173);
 }
 .col{
     background-color: rgb(16, 173, 173);
